@@ -16,8 +16,6 @@ Scenario 1: Enter Student registration form with mandatory fields, attach pictur
 Scenario 2: Setting 5 sec alert and accepting the alert
 
 Scenario 3 : Hover over the button and input field
-
-
         
 If you have any other queries,you can reach me @7448635035
 mail : ganapathy.priya@gmail.com
