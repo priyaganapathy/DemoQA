@@ -1,8 +1,11 @@
 # DemoQA
 
-Step 1 : Unzip the DEMOQA file
+Step 1 : Unzip the DEMOQA folder
+
 Step 2 : Give 'npm install' to install node package 
+
 Step 3 : The unzipped file has 'studentFormSteps.js'
+
 Step 4 : Run this test file which has 3 scenarios by giving 'npm run test'
 
 
